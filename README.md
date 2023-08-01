@@ -5,8 +5,7 @@ Move
 
 ## Design
 
-![Design](https://github.com/BakerDaher/Move/assets/81439337/f4a8b1d3-b533-4aff-8b94-ea56bf39bba1)
-
+<!-- ![Design](https://github.com/BakerDaher/Move/assets/81439337/f4a8b1d3-b533-4aff-8b94-ea56bf39bba1) -->
 
 <div style="text-align: center">
 <table><tr>
