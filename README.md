@@ -10,7 +10,7 @@ Move
 
   <td style="text-align: center">
   <video width="320" height="240" controls>
-    <source width="180" alt="Design" src="https://github.com/BakerDaher/My_Image/blob/main/Search/Move.mp4" type="video/mp4">
+    <img width="180" alt="Home" src="https://github.com/BakerDaher/My_Image/blob/main/Search/Design.gif">
       A look at the app design
   </video>
   </td>
